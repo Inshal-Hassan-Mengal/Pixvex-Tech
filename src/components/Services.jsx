@@ -23,8 +23,8 @@ export default function Services() {
     },
     {
       number: '04',
-      title: 'AI & AUTOMATION',
-      description: 'Practical AI-powered tools and automation solutions that help businesses work smarter.',
+      title: 'Responsive Design',
+      description: 'We create websites and applications that look great and function flawlessly on any device.',
       icon: Cpu
     },
     {

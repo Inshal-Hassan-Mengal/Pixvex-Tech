@@ -4,7 +4,6 @@ import Hero from './components/Hero.jsx';
 import Capabilities from './components/Capabilities.jsx';
 import About from './components/About.jsx';
 import Services from './components/Services.jsx';
-import Projects from './components/Projects.jsx';
 import WhyPixvex from './components/WhyPixvex.jsx';
 import Achievements from './components/Achievements.jsx';
 import Process from './components/Process.jsx';
@@ -58,7 +57,6 @@ export default function App() {
         <Capabilities />
         <About />
         <Services />
-        <Projects />
         <WhyPixvex />
         <Achievements />
         <Process />

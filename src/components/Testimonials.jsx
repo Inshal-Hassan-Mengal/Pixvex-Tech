@@ -7,21 +7,21 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      quote: "Pixvex Tech transformed our fragmented internal tools into an exceptionally sleek, cohesive operations platform. Delivery was on schedule, communication was crystal clear, and the code quality exceeded our standards.",
-      clientName: "Marcus Vance",
-      roleCompany: "Operations Lead, Apex Logistics (Placeholder Feedback)"
+      quote: "Pixvex Tech ne waqai kamaal kar diya! Professional work, zabardast design aur excellent service. Hamari expectations se bhi behtar result mila. Highly recommended!",
+      clientName: "Usman",
+      roleCompany: "Happy Client"
     },
     {
       id: 2,
       quote: "Working with Pixvex Tech felt like an extension of our internal team. Their focus on simple, practical solutions saved us months of development time and delivered an e-commerce platform with incredible speed.",
-      clientName: "Elena Rostova",
-      roleCompany: "Co-Founder, Monolith Studios (Placeholder Feedback)"
+      clientName: "Thomas Smith",
+      roleCompany: "Another Client Feedback"
     },
     {
       id: 3,
       quote: "The team's grasp of both modern UI/UX design and scalable development is rare. They built our customer portal from scratch with zero bloat and absolute architectural precision.",
       clientName: "Tariq Mahmud",
-      roleCompany: "Product Director, Horizon FinTech (Placeholder Feedback)"
+      roleCompany: "Client Feedback"
     }
   ];
 

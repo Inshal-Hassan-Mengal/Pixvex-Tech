@@ -5,7 +5,7 @@ export default function Capabilities() {
     'WEB DEVELOPMENT',
     'APP DEVELOPMENT',
     'UI/UX DESIGN',
-    'AI & AUTOMATION',
+    'Responsive Design',
     'DIGITAL SOLUTIONS'
   ];
 
