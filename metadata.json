@@ -1,0 +1,6 @@
+{
+  "name": "Pixvex Tech",
+  "description": "Building Digital Experiences That Move Businesses Forward. Technology, Design, and Digital Solutions for modern enterprises and startups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
